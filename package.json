@@ -1,6 +1,7 @@
 {
   "name": "newsapp",
   "version": "0.1.0",
+  "homepage": "/general",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
